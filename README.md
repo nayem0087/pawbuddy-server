@@ -1,11 +1,11 @@
-# 🖥️ PetAdopt - Backend Server
+# 🖥️ PawBuddy - Backend Server
 
 A high-performance, secure Node.js and Express REST API backing the PetAdopt application. This layer manages persistence directly inside a structured MongoDB database and enforces strict validation schemas to secure the pet listing and adoption workflow.
 
 ---
 
 ## 🚀 Purpose
-The primary purpose of the **PetAdopt Server** is to manage state data safely, govern structural security validations, query indexed entries, and enforce strict business logic to prevent database manipulation or duplicate request submissions.
+The primary purpose of the **PewBuddy Server** is to manage state data safely, govern structural security validations, query indexed entries, and enforce strict business logic to prevent database manipulation or duplicate request submissions.
 
 ---
 
